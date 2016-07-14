@@ -27,6 +27,7 @@
             -o-background-size: cover;
             background-size: cover;
             height: 100%;
+            background-color: #060;
             color: #fff;
             text-align: center;
         }
